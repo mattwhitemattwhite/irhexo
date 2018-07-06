@@ -1,0 +1,23 @@
+* {
+	margin-bottom: 15px;
+}
+nav {
+	background: lightgray;
+	float: center;
+}
+div {
+	border: 2px solid black;
+	padding: 5px;
+	margin-bottom: 0px;
+}
+#buttons{
+	border: 0;
+}
+
+main {
+	background: lightblue;
+}
+
+footer {
+	border: 2px solid
+}
